@@ -1,2 +1,5 @@
 # Claude Code local settings (machine-specific, personal)
 .claude/settings.local.json
+
+# Environment secrets — never commit real keys (.env.example IS tracked)
+.env
